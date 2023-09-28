@@ -4,9 +4,12 @@
     margin: 0;
     padding: 0;
 }
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
 
 nav {
-    background-color: black;
+    background-color:#50394c ;
     color: white;
     height: 60px;
     font-size: 20px;
